@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+
+<p align="center">
+
+  <img src="./logo.jpg" height="200px" />
+
+</p>
+
+<h1 align="center">👩‍💻 kimuni01 | ... 🧩</h1>
+
+<h3 align="center"><i>"..."</i></h3>
+
+<p align="center">
+
+---
+
+## About Me
+
+... <br/>
+
+Wir denken für immer im Leben...
