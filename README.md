@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ## About Me
 
 ... <br/>
-<img src="https://media1.tenor.com/m/uKdBEgUH5oYAAAAd/samuel-johnson-reading.gif width="100%" height="auto"/>
+<img src="https://media1.tenor.com/m/uKdBEgUH5oYAAAAd/samuel-johnson-reading.gif" width="100%" height="auto"/>
 Wir denken für immer im Leben...
